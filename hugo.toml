@@ -1,4 +1,13 @@
+title = 'Johns Tech Hub'
 baseURL = 'https://johnski001.com/'
 languageCode = 'en-us'
-title = 'Johns Tech Hub'
 theme = 'ananke'
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 10
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
