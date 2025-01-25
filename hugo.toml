@@ -1,4 +1,4 @@
-title = 'Johns Tech Hub'
+title = 'JTH'
 baseURL = 'https://johnski001.com/'
 languageCode = 'en-us'
 theme = 'ananke'
@@ -11,3 +11,28 @@ pagerSize = 10
 changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+    respectDoNotTrack = true
+  [privacy.instagram]
+    disable = true
+    simple = true
+  [privacy.twitter]
+    disable = true
+    enableDNT = true
+    simple = true
+  [privacy.vimeo]
+    disable = true
+    enableDNT = true
+    simple = true
+  [privacy.x]
+    disable = true
+    enableDNT = true
+    simple = true
+  [privacy.youTube]
+    disable = true
+    privacyEnhanced = true
