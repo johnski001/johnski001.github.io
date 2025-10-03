@@ -1,7 +1,8 @@
 ### Hugo ###
 # Generated files by hugo
 /public/
-/resources/_gen/
+/resources/
+.hugo_build.lock
 
 # Executable may be added to repository
 hugo.exe
