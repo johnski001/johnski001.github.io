@@ -1,6 +1,6 @@
 ---
 title: "The Room VR: a dark matter"
-description: "This articles describes my personal review of the VR game, The room: a dark matter."
+summary: "The Room VR: A Dark Matter is the first VR and digital escape room experience I’ve played, and it left a strong impression. From the start, the immersive scenery and intuitive mechanics, kept me engaged."
 category: ['videogames']
 tags: ['adventure', 'puzzle', 'VR', 'mystery', 'investigation']
 date: 2025-10-04
