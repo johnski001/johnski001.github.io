@@ -1,5 +1,5 @@
 ---
-title: "The room VR: a dark matter"
+title: "The Room VR: a dark matter"
 description: "This articles describes my personal review of the VR game, The room: a dark matter."
 category: ['videogames']
 tags: ['adventure', 'puzzle', 'VR', 'mystery', 'investigation']
