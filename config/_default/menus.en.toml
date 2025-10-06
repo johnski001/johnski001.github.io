@@ -16,6 +16,11 @@
   weight = 10
 
 [[main]]
+  name = "Completed videogames"
+  pageRef = "completed-games"
+  weight = 100
+
+[[main]]
   name = "Videogames"
   parent = "Blog"
   pageRef = "posts/videogames"
