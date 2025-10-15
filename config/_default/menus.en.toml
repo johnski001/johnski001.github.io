@@ -33,6 +33,12 @@
   weight = 10
 
 [[main]]
+  name = "Home Assistant"
+  parent = "Blog"
+  pageRef = "posts/home-assistant"
+  weight = 10
+
+[[main]]
   name = "About me"
   pageRef = "about"
   weight = 20
